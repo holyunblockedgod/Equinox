@@ -1,6 +1,6 @@
 {
-    "name": "Equinox",
-    "description": "Experience the internet without censorship.",
+    "name": "Tunnel",
+    "description": "Browse the internet, freely.",
     "image": "heroku/nodejs",
     "addons": [],
     "buildpacks": [
